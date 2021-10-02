@@ -7,3 +7,12 @@ C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Dominio\bin\Debug\net
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.pdb
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.dll
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.pdb
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.deps.json
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.dll
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.pdb
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.csprojAssemblyReference.cache
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.AssemblyInfoInputs.cache
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.AssemblyInfo.cs
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.csproj.CoreCompileInputs.cache
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.dll
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.0\ParqueaderoGrupoB.App.Dominio.pdb

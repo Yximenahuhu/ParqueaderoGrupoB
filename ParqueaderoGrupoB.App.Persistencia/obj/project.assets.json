@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
       "projectName": "ParqueaderoGrupoB.App.Persistencia",
-      "projectPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
+      "projectPath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\obj\\",
+      "outputPath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj": {
-              "projectPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj"
+            "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj": {
+              "projectPath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj"
             }
           }
         }

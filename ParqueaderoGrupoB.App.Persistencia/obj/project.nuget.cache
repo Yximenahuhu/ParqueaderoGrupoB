@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Q6z+NMHqJ5FyY4hHNKcgFrTG/f05apJCHEGAn6oTFprOGbUWbrizW6oFC768vVhirUrj954227eiX4x9sZ78Q==",
+  "dgSpecHash": "wxjQvOKzaui4thmO2T2SvjHyJO/MdQQldzQc/Ke0gomNJxVcHTFIZvCoj17wnvqxy2H1w6i90XBYQ/eyAppx+g==",
   "success": true,
-  "projectFilePath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
+  "projectFilePath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Juan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

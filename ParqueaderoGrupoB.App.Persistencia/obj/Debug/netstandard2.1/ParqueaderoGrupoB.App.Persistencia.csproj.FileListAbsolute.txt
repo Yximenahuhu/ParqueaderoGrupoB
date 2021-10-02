@@ -10,3 +10,15 @@ C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\bin\Debu
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csproj.CopyComplete
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.dll
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.pdb
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csprojAssemblyReference.cache
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.AssemblyInfoInputs.cache
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.AssemblyInfo.cs
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.dll
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.pdb
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.deps.json
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.dll
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.pdb
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.dll
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.pdb
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csproj.CopyComplete

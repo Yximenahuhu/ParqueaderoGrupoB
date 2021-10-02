@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dELWmfYKsivluZuaeAX5gXPwdmFltI9JsOxfd+eLusRWFFGreu1vv77uIYFM1pgFHf0rncX/plWnvL4s4PDLSA==",
+  "dgSpecHash": "9frxvcQlmUlFuwSmFl1C1RJKmsRfGJYIFFyR63vajsioy5H2yNg5RDRayG6zC5Smi8aSyx78Upg/y8CiC2MSiQ==",
   "success": true,
-  "projectFilePath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
+  "projectFilePath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Juan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj": {}
+    "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj": {
+    "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
+        "projectUniqueName": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
         "projectName": "ParqueaderoGrupoB.App.Dominio",
-        "projectPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\obj\\",
+        "projectPath": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Ximena\\.nuget\\packages\\",
+        "outputPath": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ximena\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,21 +53,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj": {
+    "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
+        "projectUniqueName": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
         "projectName": "ParqueaderoGrupoB.App.Persistencia",
-        "projectPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Persistencia\\obj\\",
+        "projectPath": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\ParqueaderoGrupoB.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Ximena\\.nuget\\packages\\",
+        "outputPath": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ximena\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj": {
-                "projectPath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj"
+              "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj": {
+                "projectPath": "E:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj"
               }
             }
           }
@@ -129,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

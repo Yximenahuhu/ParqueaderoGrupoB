@@ -10,3 +10,15 @@ C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\bin\Debu
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csproj.CopyComplete
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.dll
 C:\Parqueadero\ParqueaderoGrupoB.App\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.pdb
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.deps.json
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.dll
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.pdb
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.dll
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.pdb
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csprojAssemblyReference.cache
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.AssemblyInfoInputs.cache
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.AssemblyInfo.cs
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.csproj.CopyComplete
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.dll
+E:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Persistencia\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Persistencia.pdb

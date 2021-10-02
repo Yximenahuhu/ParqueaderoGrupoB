@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dELWmfYKsivluZuaeAX5gXPwdmFltI9JsOxfd+eLusRWFFGreu1vv77uIYFM1pgFHf0rncX/plWnvL4s4PDLSA==",
+  "success": true,
+  "projectFilePath": "C:\\Parqueadero\\ParqueaderoGrupoB.App\\ParqueaderoGrupoB.App.Dominio\\ParqueaderoGrupoB.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

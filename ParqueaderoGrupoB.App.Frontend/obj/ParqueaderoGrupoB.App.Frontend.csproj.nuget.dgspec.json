@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {}
+    "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Frontend\\ParqueaderoGrupoB.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {
+    "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Frontend\\ParqueaderoGrupoB.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
-        "projectName": "HolaWeb.App.Frontend",
-        "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+        "projectUniqueName": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Frontend\\ParqueaderoGrupoB.App.Frontend.csproj",
+        "projectName": "ParqueaderoGrupoB.App.Frontend",
+        "projectPath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Frontend\\ParqueaderoGrupoB.App.Frontend.csproj",
         "packagesPath": "C:\\Users\\arias\\.nuget\\packages\\",
-        "outputPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\obj\\",
+        "outputPath": "C:\\ParqueaderoGrupoB\\ParqueaderoGrupoB.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arias\\AppData\\Roaming\\NuGet\\NuGet.Config"

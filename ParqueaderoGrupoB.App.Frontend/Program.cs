@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace HolaWeb.App.Frontend
+namespace ParqueaderoGrupoB.App.Frontend
 {
     public class Program
     {

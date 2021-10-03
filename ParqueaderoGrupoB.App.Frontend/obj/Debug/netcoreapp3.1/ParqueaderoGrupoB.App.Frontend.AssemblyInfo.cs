@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HolaWeb.App.Frontend")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ParqueaderoGrupoB.App.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("HolaWeb.App.Frontend")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HolaWeb.App.Frontend")]
+[assembly: System.Reflection.AssemblyProductAttribute("ParqueaderoGrupoB.App.Frontend")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ParqueaderoGrupoB.App.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

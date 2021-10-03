@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "HolaWeb.App.Frontend/1.0.0": {
+      "ParqueaderoGrupoB.App.Frontend/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -308,10 +308,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "HolaWeb.App.Frontend.dll": {}
+          "ParqueaderoGrupoB.App.Frontend.dll": {}
         },
         "compile": {
-          "HolaWeb.App.Frontend.dll": {}
+          "ParqueaderoGrupoB.App.Frontend.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2009,7 +2009,7 @@
     }
   },
   "libraries": {
-    "HolaWeb.App.Frontend/1.0.0": {
+    "ParqueaderoGrupoB.App.Frontend/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,7 +10,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.RelatedAssemblyAttribute("HolaWeb.App.Frontend.Views")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.RelatedAssemblyAttribute("ParqueaderoGrupoB.App.Frontend.Views")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

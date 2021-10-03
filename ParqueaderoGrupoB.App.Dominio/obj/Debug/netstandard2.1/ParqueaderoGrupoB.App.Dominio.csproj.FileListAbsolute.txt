@@ -1,0 +1,9 @@
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.deps.json
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.dll
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\bin\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.pdb
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.csprojAssemblyReference.cache
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.AssemblyInfoInputs.cache
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.AssemblyInfo.cs
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.dll
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Dominio\obj\Debug\netstandard2.1\ParqueaderoGrupoB.App.Dominio.pdb

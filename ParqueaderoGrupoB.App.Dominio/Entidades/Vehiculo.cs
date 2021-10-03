@@ -2,12 +2,13 @@ using System;
 namespace ParqueaderoGrupoB.App.Dominio
 {
 
-    public class Vehiculo
+    public class Vehiculo:Persona
     {
-        public int Id {get; set; }
+        public string Placa {get; set; }
         public string Marca { get; set; }
         public string Modelo { get; set; }
         public string Color { get; set; }
         public string Tamaño { get; set; }
+        public string TipoVehiculo { get; set; }
     }
 }

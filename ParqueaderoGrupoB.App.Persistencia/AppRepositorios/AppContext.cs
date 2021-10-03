@@ -6,7 +6,7 @@ namespace ParqueaderoGrupoB.App.Persistencia
     public class AppContext : DbContext
     {
         public DbSet<Persona> personas { get; set; }
-        public DbSet<Vehiculo> vehiculos { get; set; }
+        public DbSet<Vehiculo> Vehiculos { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         if (!optionsBuilder.IsConfigured) {

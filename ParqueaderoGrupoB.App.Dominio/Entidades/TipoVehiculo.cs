@@ -6,6 +6,6 @@ namespace ParqueaderoGrupoB.App.Dominio
     {
         Moto,
 
-        Carro,
+        Carro
     }
 }

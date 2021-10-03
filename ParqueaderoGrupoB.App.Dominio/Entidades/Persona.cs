@@ -8,6 +8,6 @@ namespace ParqueaderoGrupoB.App.Dominio
         public string Nombre { get; set; }
         public string Telefono { get; set; }
         public string Direccion { get; set; }
-        public DateTime FechaNacimiento { get; set; }
+        
     }
 }

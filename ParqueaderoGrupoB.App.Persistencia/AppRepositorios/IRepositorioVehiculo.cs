@@ -3,14 +3,14 @@ using ParqueaderoGrupoB.App.Dominio;
 
 
 
-namespace ParqueaderoGrupoB.app.Persistencia
+namespace ParqueaderoGrupoB.App.Persistencia
 {
     public interface IRepositorioVehiculo{
         IEnumerable<Vehiculo> getAllVehiculos();
         Vehiculo addVehiculo(Vehiculo vehiculo);
         Vehiculo editVehiculo(Vehiculo vehiculo);
-        void removeVehiculo(int id);
-        Vehiculo getVehiculo(int id);
+        void removeVehiculo(string placaVehiculo);
+        Vehiculo getVehiculo(string placaVehiculo);
     }
 
 }

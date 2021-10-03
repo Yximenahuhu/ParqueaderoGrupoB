@@ -9,7 +9,7 @@ using ParqueaderoGrupoB.App.Persistencia;
 namespace ParqueaderoGrupoB.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211003145547_Initial")]
+    [Migration("20211003154631_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -15,6 +15,9 @@ namespace ParqueaderoGrupoB.App.Consola
         private static void AddVehiculo()
         {
             var vehiculo = new Vehiculo{
+                Nombre = "Jonathan",
+                Direccion = "Calle Falsa 123",
+                Telefono = "313132152",
                 Placa = "SYU130",
                 TipoVehiculo = "Moto",
                 Tamaño ="Compacto",

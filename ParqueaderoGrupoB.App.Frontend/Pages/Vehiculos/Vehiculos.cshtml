@@ -1,0 +1,13 @@
+﻿@page
+@model ParqueaderoGrupoB.App.Frontend.Pages.VehiculosModel
+@{
+}
+<h1>Registro de Vehiculos</h1>
+<table class="table">
+    @foreach (var vehiculos in Model.ListaVehiculos)
+    {
+        <tr>
+           <td>@vehiculos</td> 
+        </tr>
+    }
+</table>

@@ -35,3 +35,6 @@ C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\Parq
 C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\ParqueaderoGrupoB.App.Frontend.pdb
 C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\ParqueaderoGrupoB.App.Frontend.genruntimeconfig.cache
 C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\ParqueaderoGrupoB.App.Frontend.csproj.CopyComplete
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\SistemaClientes.cshtml.g.cs
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Reservas\SistemaReservas.cshtml.g.cs
+C:\ParqueaderoGrupoB\ParqueaderoGrupoB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Vehiculos.cshtml.g.cs

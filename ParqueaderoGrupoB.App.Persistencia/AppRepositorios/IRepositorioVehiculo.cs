@@ -13,6 +13,4 @@ namespace ParqueaderoGrupoB.app.Persistencia
         Vehiculo getVehiculo(int id);
     }
 
-
-
 }

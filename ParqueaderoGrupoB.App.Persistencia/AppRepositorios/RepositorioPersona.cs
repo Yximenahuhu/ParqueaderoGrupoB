@@ -4,7 +4,7 @@ using ParqueaderoGrupoB.App.Dominio;
 
 namespace ParqueaderoGrupoB.App.Persistencia
 {
-    public class RepositorioPersona : IRepositorioPersona
+    public class RepositorioPersona : IRepositorioPersona()
     {
         private readonly AppContext _appContext;
 

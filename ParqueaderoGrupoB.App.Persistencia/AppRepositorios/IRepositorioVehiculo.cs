@@ -3,7 +3,7 @@ using ParqueaderoGrupoB.App.Dominio;
 
 
 
-namespace ParqueaderoGrupoB.app.Persistencia
+namespace ParqueaderoGrupoB.App.Persistencia
 {
     public interface IRepositorioVehiculo{
         IEnumerable<Vehiculo> getAllVehiculos();
